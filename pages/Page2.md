@@ -28,13 +28,13 @@
 tags: `classic` `arch`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/classic-arch.png">
 
-tags: `dark` `town`
+tags: `dark` `town` `tribe`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/cute-town-dark.png">
 
-tags: `light` `town`
+tags: `light` `town` `tribe`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/cute-town.png">
 
-tags: `debian` `nord` `red`
+tags: `debian` `nord` `red` `spiral`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/debian.png">
 
 tags: `forest` `fantasy`
@@ -58,7 +58,7 @@ tags: `planet` `space` `nord`
 tags: `gray` `bubbles`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/gray-background.png">
 
-tags: `black` `hands` `simple`
+tags: `black` `hand-sign` `simple`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/hands.jpg">
 
 tags: `hill` `house` `animation`
@@ -70,7 +70,7 @@ tags: `light` `ring`
 tags: `cup` `catpuccinn`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/taza.png">
 
-tags: `hello world` `C++`
+tags: `hello world` `C++` `code`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/hello-worlds.png">
 
 tags: `localhost` `dark` `linux`
@@ -94,9 +94,10 @@ tags: `maths` `trigonometry`
 tags: `dark` `blue`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wallpaper3-dark.png">
 
+tags: `girl` `black`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/36592_serial_experiments_lain.png">
 
-tags: `kyoto`
+tags: `kyoto` `japan`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/yellow_kyoto.jpg">
 
 [Back to top](#Index)
