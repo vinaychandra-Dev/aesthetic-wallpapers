@@ -43,19 +43,19 @@ tags: `minimal` `camp` `gray`
 tags: `squares` `minimal`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/3squares.png">
 
-tags: `japan` `anime`
+tags: `japan` `anime` `got`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/japan.png">
 
-tags: `samurai` `japan`
+tags: `samurai` `japan` `mythology`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/japan2.jpg">
 
-tags: `katana` `pink`
+tags: `katana` `pink` `sakura`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pink-katana.png">
 
 tags: `nord` `jupiter`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/jupiter.png">
 
-tags: `japan` `epic` `tree`
+tags: `japan` `epic` `tree` `shrine`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/japan3.jpg">
 
 tags: `anime` `katana` `girl`
@@ -79,7 +79,7 @@ tags: `minimal` `black` `random`
 tags: `acrylic`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/acrylic.jpg">
 
-tags: `demon`
+tags: `demon` `knight`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/blue_demon.png">
 
 [Back to top](#Index)
