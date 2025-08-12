@@ -40,13 +40,13 @@ tags: `nord` `girl` `linux`
 tags: `tree` `epic` `waterfall`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/beautiful.jpg">
 
-tags: `nord` `knight`
+tags: `nord` `ninja`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/black.jpg">
 
 tags: `hippie` `arch`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/arch-peace.png">
 
-tags: `anime` `black`
+tags: `anime` `black` `girl`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/black-white-girl.png">
 
 tags: `bunny` `purple`
@@ -55,13 +55,13 @@ tags: `bunny` `purple`
 tags: `red` `chinese` `symbol`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/chinese.png">
 
-tags: `planets` `nord`
+tags: `planets` `nord` `space`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/colorful-planets.jpg">
 
 tags: `catpuccinn` `arch`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/catppuccin-rainbow-arch.png">
 
-tags: 
+tags: `cosmos`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/colors.jpg">
 
 tags: `time` `nord` `clock`
