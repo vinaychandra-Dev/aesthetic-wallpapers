@@ -25,10 +25,10 @@
 
 ## Page 4
 
-tags: `chill` `pastel` `comic`
+tags: `chill` `pastel` `comic` `lofi`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/lofi.jpg">
 
-tags: `fantasy` `sakura` `HD`
+tags: `fantasy` `sakura` `HD` `shrine`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/manga.png">
 
 tags: `car` `cyber`
@@ -40,7 +40,7 @@ tags: `red` `tree`
 tags: `minimal` `nord`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/minimal_nord_guy.png">
 
-tags: `dark` `city`
+tags: `dark` `city` `night`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nord_dark_city.png">
 
 tags: `nord` `cat`
@@ -85,8 +85,10 @@ tags: `dark` `samurai`
 tags: `tokyo`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/TokyoSimplistic.jpg">
 
+tags: `witch` `anime` `girl`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/ign_megumin_dark.png">
 
+tags: `cozy` `country-side`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/interstellar_wallpaper.png">
 
 tags: `girl`
